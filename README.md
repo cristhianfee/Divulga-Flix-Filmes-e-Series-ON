@@ -4,3 +4,6 @@ Este projeto foi um site de filmes que eu fiz utilizando as tecnologias HTML CSS
 💻 Sobre o projeto
 DivulgaFlix e é um aplicativo web
 O aplicativo consiste em uma página web com uma lista de alguns filmes. 
+🛠 Tecnologias
+As seguintes ferramentas foram usadas na construção do projeto:
+HTML CSS BOOTSTRAP
